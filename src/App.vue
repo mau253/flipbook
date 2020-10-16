@@ -30,7 +30,7 @@
           @click="flipbook.zoomIn"
         />
         <span class="page-num">
-          Page {{ flipbook.page }} of {{ flipbook.numPages }}
+          Página {{ flipbook.page }} de {{ flipbook.numPages }}
         </span>
         <minus-icon
           class="btn minus"
